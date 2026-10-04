@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Reportes de auditoría exportados localmente
+ejercicio2/inventario_*.json
+
+# Informes académicos personales (para entrega al docente)
+INFORME.txt
+ejercicio2/INFORME_EJERCICIO2.txt
+*INFORME*.txt
+*.docx
+*.pdf
+
+# Entornos virtuales
+env/
+venv/
+.env
+
+# Editores / IDEs
+.vscode/
+.idea/
